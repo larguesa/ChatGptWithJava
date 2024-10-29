@@ -1,0 +1,28 @@
+{
+    "created": 1730211726,
+    "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 18,
+        "completion_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "cached_tokens": 0
+        },
+        "total_tokens": 28
+    },
+    "model": "gpt-3.5-turbo-0125",
+    "id": "chatcmpl-ANhOgWp4w6VWwdYa7UcKYY3fFCcoL",
+    "choices": [{
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "refusal": null,
+                "content": "Sim, o Palmeiras tem t�tulo mundial."
+            },
+            "logprobs": null
+        }],
+    "system_fingerprint": null,
+    "object": "chat.completion"
+}
